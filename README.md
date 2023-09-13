@@ -1,3 +1,3 @@
-[![C++ CI](https://github.com/ChicoState/FirstIO/actions/workflows/cicd.yml/badge.svg)](https://github.com/ChicoState/FirstIO/actions/workflows/cicd.yml)
+[![Build Hello](https://github.com/bryanjbrooks/CSCI430_CICD/actions/workflows/cicd.yml/badge.svg)](https://github.com/bryanjbrooks/CSCI430_CICD/actions/workflows/cicd.yml)
 
 # CSCI430_CICD
